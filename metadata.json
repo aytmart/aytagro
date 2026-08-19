@@ -1,0 +1,6 @@
+{
+  "name": "AYT Agro",
+  "description": "Smart Solutions for Better Farming - Agricultural machinery rental, irrigation, drainage, farm engineering and modern farming services in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
