@@ -75,8 +75,11 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       const slug = parts[1] || null;
 
       const validRoutes: PageRoute[] = [
-        'home', 'services', 'service-details', 'products', 'product-details',
-        'machinery-rental', 'machine-details', 'booking', 'solutions',
+        'home', 'natural-farming', 'soil-health', 'natural-pest', 'natural-pest-management',
+        'smart-water', 'digital-farm', 'model-farm', 'verified-produce', 'verified-farm',
+        'crop-assistant', 'farm-calculator', 'packages', 'farmer-stories', 'knowledge',
+        'services', 'service-details', 'products', 'product-details',
+        'machinery', 'machinery-rental', 'machine-details', 'booking', 'solutions',
         'farm-engineering', 'irrigation', 'drainage', 'solar-agriculture',
         'soil-testing', 'advisory', 'projects', 'project-details',
         'blog', 'article', 'crop-guide', 'about', 'team', 'contact',

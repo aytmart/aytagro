@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // GitHub Pages project site lives at https://aytmart.github.io/aytagro/
+    base: '/aytagro/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
