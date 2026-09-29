@@ -1,0 +1,6 @@
+{
+  "name": "AYT Agro",
+  "description": "Natural Farming & Smart Agriculture Ecosystem in Bangladesh. Natural farming solutions, soil health management, smart irrigation, agricultural tools, farm engineering, and digital agriculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
